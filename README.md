@@ -16,6 +16,7 @@
 | **[03_fgo_anime_series.md](file:///z:/Fate/03_fgo_anime_series.md)** | **Fate/Grand Order アニメ群** | First Order、バビロニア、キャメロット、ソロモン等の人理修復叙事詩 |
 | **[04_spinoff_and_parallel.md](file:///z:/Fate/04_spinoff_and_parallel.md)** | **スピンオフ・平行世界** | Apocrypha、EXTRA Last Encore、Strange Fake、エルメロイII世、プリヤ、日常系 |
 | **[05_sound_and_production.md](file:///z:/Fate/05_sound_and_production.md)** | **映像演出・音響・劇伴音楽分析** | 川井憲次／梶浦由記／深澤秀行の劇伴論、岩浪美和の音響設計、SE美学 |
+| **[ubw_episode_00.md](file:///z:/Fate/ubw_episode_00.md)** | **UBW #00 プロローグ詳細解剖** | 遠坂凛視点による初回SPの構成、ランサー戦、蘇生の伏線、音響・SE設計 |
 
 ---
 
